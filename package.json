@@ -3,7 +3,7 @@
   "author": "Kévin Dunglas <dunglas@gmail.com>",
   "main": "dist/server.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
